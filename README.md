@@ -1,21 +1,93 @@
-# 💫 About Me:
-Computer Science @ USU | Full-Stack Development | System Design | SaaS Entrepreneur
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryangrotzky/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryangrot7@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=grotzkyryan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=grotzkyryan&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=grotzkyryan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hi, I'm Ryan 👋</h1>
+<p align="center">
+  Full-stack development • Systems Design • SaaS builder
+</p>
+<p align="center">
+  View my work at <a href="https://www.ryangrotzky.com/"><strong>ryangrotzky.com</strong></a>
+</p>
+<p align="center">
+  <a href="https://ryangrotzky.com">
+    <img src="https://img.shields.io/badge/View_Work-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="View Work" />
+  </a>
+  <a href="https://www.linkedin.com/in/ryangrotzky/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=grotzkyryan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON" />
+        <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff" alt="YAML" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Frameworks & Libraries</h3>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" alt="Vue.js" />
+        <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff" alt="Express.js" />
+        <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff" alt="jQuery" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Cloud & DevOps</h3>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff" alt="AWS" />
+        <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff" alt="Cloudflare" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab CI" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Databases</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff" alt="Supabase" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="100%" colspan="2">
+      <h3>API & Testing</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" alt="Postman" />
+        <img src="https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=fff" alt="Kong" />
+        <img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=fff" alt="OpenAPI" />
+        <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000" alt="Swagger" />
+        <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff" alt="Cypress" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=grotzkyryan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=grotzkyryan&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=grotzkyryan&style=flat&color=3b82f6" alt="Profile views" />
+</p>
